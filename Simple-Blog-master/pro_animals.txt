@@ -1,0 +1,1149 @@
+Aardwolf;NyetOVOn
+Admiral, indian red;00KDReQh
+Adouri (unidentified);FHUbve41
+African black crake;Ooj6PGCA
+African buffalo;JAJlFkq7
+African bush squirrel;yCSY2YCx
+African clawless otter;RHxKzuYr
+African darter;l55L4Ys8
+African elephant;QwPiACDP
+African fish eagle;nGe4eLDd
+African ground squirrel (unidentified);EzUyYdRv
+African jacana;jMRNA2tc
+African lion;q6YiSxVg
+African lynx;nePBi2XV
+African pied wagtail;IOLxxWgY
+African polecat;KtFkQsmv
+African porcupine;D51GokYJ
+African red-eyed bulbul;EVvESLpT
+African skink;43Wdcyrn
+African snake (unidentified);CfQULOWz
+African wild cat;WyhRG7cN
+African wild dog;NWqXz9NT
+Agama lizard (unidentified);0k41bh8L
+Agile wallaby;RxkFDlVw
+Agouti;9LEaN2kF
+Albatross, galapagos;oBSIWTko
+Albatross, waved;Pfc32zAg
+Alligator, american;YvKPcrOz
+Alligator, mississippi;sMGCI6l7
+Alpaca;xTdCotZW
+Amazon parrot (unidentified);QlIwsdyw
+American Virginia opossum;GdWPgxMg
+American alligator;bShOXmN0
+American badger;hcKIfpoW
+American beaver;choQGiTn
+American bighorn sheep;Oc5w7hO6
+American bison;0BdxXq2X
+American black bear;DfXb8iF7
+American buffalo;8beWz3Un
+American crow;u4XsrOKf
+American marten;Cg2K2TUm
+American racer;XPcS8xPC
+American woodcock;RRt77bwm
+Anaconda (unidentified);4KSQSC92
+Andean goose;w06w0838
+Ant (unidentified);EpUKCHAx
+Anteater, australian spiny;S64JaMBx
+Anteater, giant;hFwd6sH5
+Antechinus, brown;ngbT7F8N
+Antelope ground squirrel;gVBtmQe3
+Antelope, four-horned;4lWaGEIA
+Antelope, roan;Q5fTTx8H
+Antelope, sable;mcZfBxK2
+Arboral spiny rat;QzCQfdDt
+Arctic fox;HmgNdFZx
+Arctic ground squirrel;Tu4zynVG
+Arctic hare;vNTnYYPM
+Arctic lemming;APyPcGBr
+Arctic tern;sIPNIRrD
+Argalis;myYL87F7
+Armadillo, common long-nosed;YMuGVebO
+Armadillo, giant;BUKY91QP
+Armadillo, nine-banded;xKN5wCoC
+Armadillo, seven-banded;H7qrAsDW
+Asian elephant;bomdd1s0
+Asian false vampire bat;U6vROInt
+Asian foreset tortoise;DYIN1FnW
+Asian lion;hiXC1H0Z
+Asian openbill;tPNRPI3P
+Asian red fox;474qmHZ5
+Asian water buffalo;nOO9U8af
+Asian water dragon;jRThA3yJ
+Asiatic jackal;5iSGoAbd
+Asiatic wild ass;wt7akYyf
+Ass, asiatic wild;ZRHYAV9C
+Australian brush turkey;tsXLEjG6
+Australian magpie;Oxg9g5zR
+Australian masked owl;Xyg25c6o
+Australian pelican;phOZ0yJt
+Australian sea lion;aV1Eif9j
+Australian spiny anteater;v1oHQ76x
+Avocet, pied;tBCfsFiX
+Azara's zorro;FS5IXD6G
+Baboon, chacma;2OMrAOSu
+Baboon, gelada;LqjdjuAb
+Baboon, olive;ZQ6PUVwD
+Baboon, savanna;MrnQIKjo
+Baboon, yellow;9OtQi5bZ
+Badger, american;srAg7kX4
+Badger, eurasian;uO0yOYdj
+Badger, european;DqyFoPcb
+Badger, honey;MOa72331
+Bahama pintail;V80lYvf3
+Bald eagle;yZYssnxt
+Baleen whale;WlRIdayN
+Banded mongoose;BddglpYD
+Bandicoot, long-nosed;hC3IJbV7
+Bandicoot, short-nosed;rSSZVnie
+Bandicoot, southern brown;2vToWUNg
+Barasingha deer;cirbUgcn
+Barbet, black-collared;sZPlEuP3
+Barbet, crested;z1UHTJde
+Barbet, levaillant's;q8vj2cK2
+Bare-faced go away bird;hKvDhzb0
+Barking gecko;AqTnUdMc
+Barrows goldeneye;CTebMI4e
+Bat, asian false vampire;qYIXCwJ2
+Bat, little brown;oH5GJeBi
+Bat, madagascar fruit;gpU5ZVqR
+Bat-eared fox;xGDY1mQ3
+Bateleur eagle;QIH1HcYm
+Bear, american black;RNgXwCh7
+Bear, black;97RGHSJd
+Bear, grizzly;idph29RY
+Bear, polar;PEOhwCR4
+Bear, sloth;jfZlU7zx
+Beaver, american;GEgxWCQ5
+Beaver, eurasian;izDtYTZn
+Beaver, european;gCy7noHo
+Beaver, north american;yIxfxhR2
+Bee-eater (unidentified);NN08pCgQ
+Bee-eater, carmine;sAqmsVQX
+Bee-eater, nubian;ikWPKk7a
+Bee-eater, white-fronted;RhYccq8J
+Beisa oryx;vozguQ4P
+Bengal vulture;pYS4i3KR
+Bennett's wallaby;arAckrvQ
+Bent-toed gecko;yT4Z1NR8
+Bettong, brush-tailed;LxJRWs8H
+Bird (unidentified);cYLFNV2s
+Bird, bare-faced go away;Ipu5VU9u
+Bird, black-throated butcher;822CIhCb
+Bird, magnificent frigate;94oQKbFJ
+Bird, pied butcher;nBboAZeE
+Bird, red-billed tropic;EKtDQUzH
+Bird, secretary;m1t7amcC
+Bison, american;gRirktw5
+Black and white colobus;IzDwp7KM
+Black bear;UwAgjN1M
+Black curlew;nxsP2x4s
+Black kite;i3hAy9Iq
+Black rhinoceros;8VTKVUfQ
+Black spider monkey;urGflNjO
+Black swan;Hqiwj9Gi
+Black vulture;8ogUKFFm
+Black-backed jackal;qopMi1Ws
+Black-backed magpie;WS7Rjzq8
+Black-capped capuchin;Zo4vsK0w
+Black-capped chickadee;JLrytZF8
+Black-cheeked waxbill;rG7aTw3O
+Black-collared barbet;35y3fJBq
+Black-crowned crane;LFVdpIdt
+Black-crowned night heron;SZzKbflJ
+Black-eyed bulbul;c2gZJvW9
+Black-faced kangaroo;hJL9W5SP
+Black-footed ferret;FRujzKNs
+Black-fronted bulbul;TISLZJPM
+Black-necked stork;5XztpB5Z
+Black-tailed deer;qdiRZcbT
+Black-tailed prairie dog;cvOkVkWd
+Black-tailed tree creeper;mGH7V5H6
+Black-throated butcher bird;kGxfVeMG
+Black-throated cardinal;0jqsOjYZ
+Black-winged stilt;oIVtc2u5
+Blackbird, red-winged;xWcNQHvV
+Blackbuck;s5wO6wF8
+Blackish oystercatcher;v4AJQgx9
+Blacksmith plover;heqNFjtE
+Bleeding heart monkey;cYG3gfL3
+Blesbok;marm7PNy
+Bleu, blue-breasted cordon;Wf7r4XAr
+Bleu, red-cheeked cordon;dWLbqZVV
+Blue and gold macaw;lliuQ64v
+Blue and yellow macaw;FvejH9kt
+Blue catfish;0IpP0mzO
+Blue crane;d5IULL3H
+Blue duck;rZ82Z5Jz
+Blue fox;XE6kkEmb
+Blue peacock;OlQZSwZw
+Blue racer;9cjjxdiI
+Blue shark;BJU558hk
+Blue waxbill;f9fCwd3v
+Blue wildebeest;P8AIofDI
+Blue-breasted cordon bleu;T3Es7qr5
+Blue-faced booby;ZxDOemXb
+Blue-footed booby;fjjJyXkS
+Blue-tongued lizard;Tk5oBNiM
+Blue-tongued skink;sEpBI8sF
+Boa, columbian rainbow;pCruied0
+Boa, cook's tree;6tf9xXJA
+Boa, emerald green tree;LEk4Ap9l
+Boa, malagasy ground;5JZDTi90
+Boa, mexican;lyFUZgtc
+Boar, wild;bxAin5ON
+Boat-billed heron;U1EmziDj
+Bobcat;wpLFOsZB
+Bohor reedbuck;iD9IUi3Q
+Bonnet macaque;lXPecP6J
+Bontebok;DFV27J3l
+Booby, blue-faced;NUdyoDWu
+Booby, blue-footed;6iDOPF9F
+Booby, masked;sSmsY9jK
+Bottle-nose dolphin;xNiimD7k
+Boubou, southern;SevSwh6l
+Brazilian otter;ii21Qjwe
+Brazilian tapir;nXWF1AHR
+Brindled gnu;Y1P8B857
+Brocket, brown;whtJGVIV
+Brocket, red;4MEjeWSW
+Brolga crane;VdDywsno
+Brown and yellow marshbird;yWwXqVi6
+Brown antechinus;oBfKhrxY
+Brown brocket;FOHLWgBI
+Brown capuchin;okKE5KRs
+Brown hyena;7b5ileGM
+Brown lemur;8E21vqvH
+Brown pelican;HYPsWUCq
+Brush-tailed bettong;ME43UFhG
+Brush-tailed phascoga;3a3icnKq
+Common eland;Fqmlk3it
+Common genet;oCsIpnvw
+Common goldeneye;DBiVfdGq
+Common green iguana;40UmMbTd
+Common grenadier;DOUVij4A
+Common langur;TWwa1C2V
+Common long-nosed armadillo;bL8hKGht
+Common melba finch;cWElYFId
+Common mynah;70249Qv3
+Common nighthawk;4NVwwTsw
+Common palm civet;uoZd80zN
+Common pheasant;359xBzN4
+Common raccoon;WtSNNugC
+Common rhea;OhlxfZhL
+Common ringtail;57vGK2o9
+Common seal;8X1t7vYU
+Common shelduck;Uh1mif5r
+Common turkey;dWlMaDfo
+Common wallaroo;BUZPgNCw
+Common waterbuck;zA9LSI7h
+Common wolf;vhEQ5Ivc
+Common wombat;MFI4mSAj
+Common zebra;UOcG5XIx
+Common zorro;I00xSfDi
+Constrictor, eastern boa;O1Zl5uy1
+Cook's tree boa;mZjN6skQ
+Coot, red-knobbed;niLbhodu
+Coqui francolin;57DnKNlP
+Coqui partridge;2SPWXze4
+Corella, long-billed;RZJVMaop
+Cormorant (unidentified);W5SbPyqa
+Cormorant, flightless;UJ4fiClQ
+Cormorant, great;dZzayaug
+Cormorant, javanese;TFoDwWtb
+Cormorant, king;In6xFPgs
+Cormorant, large;19dL0kFS
+Cormorant, little;yfsRojN0
+Cormorant, neotropic;hHYLp7BI
+Cormorant, pied;02AJIoSC
+Cottonmouth;YIZCBTrI
+Cougar;1s788c0Q
+Cow, scottish highland;TW1Yi9Im
+Coyote;U1dOXi7e
+Crab (unidentified);wb7sVzhG
+Crab, red lava;cEGqqoI0
+Crab, sally lightfoot;KCc1CFGk
+Crab-eating fox;b5eHorps
+Crab-eating raccoon;QvRGlhtX
+Crake, african black;1nfdbDWb
+Crane, black-crowned;wqLCHbDQ
+Crane, blue;mMUZQ5eQ
+Crane, brolga;CzTJpWZQ
+Crane, sandhill;VX7dor6w
+Crane, sarus;gXy69FhL
+Crane, stanley;4AHQc8Gr
+Crane, wattled;sRZxWb0x
+Creeper, black-tailed tree;eSLGJVMm
+Crested barbet;nFnK7fx2
+Crested bunting;gQhHA9lT
+Crested porcupine;syfV16NB
+Crested screamer;itmHeM29
+Crimson-breasted shrike;c0fE5unU
+Crocodile, nile;wTyjWgxR
+Crow, american;DjHJgv5T
+Crow, house;fPziT8QM
+Crow, pied;u2rRv52T
+Crown of thorns starfish;DSsSHcfa
+Crowned eagle;HJWikOq9
+Crowned hawk-eagle;vVnOIz1P
+Cuis;8nHwtwWc
+Curlew, black;g64dIgY1
+Currasow (unidentified);Az2x14K0
+Curve-billed thrasher;V7jsauVf
+Dabchick;G2Y14i1B
+Dama wallaby;RASt0KnJ
+Dark-winged trumpeter;B8UmculU
+Darter, african;dtMaPU0V
+Darwin ground finch (unidentified);8KB7VLPq
+Dassie;K2MOSs9h
+Deer, barasingha;Ugt3ZfAl
+Deer, black-tailed;sPNncv5e
+Deer, mule;fcSVWAtE
+Deer, red;12ctw3Ux
+Deer, roe;tyX0rSY8
+Deer, savannah;nUIq3M2k
+Deer, spotted;2VdU5Bsk
+Deer, swamp;Mhj27mRN
+Deer, white-tailed;dPzTmMJ0
+Defassa waterbuck;UsnUuVh0
+Denham's bustard;YNhrM2sG
+Desert kangaroo rat;uorQT460
+Desert spiny lizard;DOrM4uRI
+Desert tortoise;kSqUfCMg
+Devil, tasmanian;0zSfq9OV
+Dik, kirk's dik;Hrcq2NUk
+Dingo;ncQN8joG
+Dog, african wild;WsJ1C8kW
+Dog, black-tailed prairie;2HVeGbkB
+Dog, bush;ra7brDgS
+Dog, raccoon;Aaf1qV6I
+Dolphin, bottle-nose;cFG2rH4e
+Dolphin, common;wcZBygZK
+Dolphin, striped;lVdke7ye
+Dove, emerald-spotted wood;DTynIDnV
+Dove, galapagos;j8gTVvS3
+Dove, laughing;gXWIzeEL
+Dove, little brown;gPpP2fh5
+Dove, mourning collared;5AJgAq8e
+Dove, ring;zfudeytO
+Dove, rock;lnLlS5RX
+Dove, white-winged;FE0Mpn7S
+Downy woodpecker;tfF3HIkJ
+Dragon, asian water;seZtTJbQ
+Heron, little;Z6OP2mlV
+Heron, striated;LlVru9Bz
+Heron, yellow-crowned night;3Tb0Thzj
+Herring gull;1WqvsI6C
+Hippopotamus;s83hqJIx
+Hoary marmot;ZyXYaEUY
+Hoffman's sloth;uqh3RV5w
+Honey badger;sDEMmItX
+Hoopoe, eurasian;69uyZp6O
+Hornbill, leadbeateri's ground;wdiSYwSU
+Hornbill, red-billed;sN6MRGC5
+Hornbill, southern ground;ny5CyQPl
+Hornbill, yellow-billed;uL8v1pWR
+Horned lark;dumwj8gs
+Horned puffin;lWYwJlDD
+Horned rattlesnake;ZSG3uUyG
+Hottentot teal;JjLfn4HZ
+House crow;pkb0vCjH
+House sparrow;zxu52Gi2
+Hudsonian godwit;b8n2NMff
+Hummingbird (unidentified);4DvOeFzU
+Huron;lQjkmerX
+Hyena, brown;hoIsKHPb
+Hyena, spotted;ETyJEmGI
+Hyena, striped;0s7nNgfJ
+Hyrax;1LOo3iOk
+Ibex;SbTiKMkn
+Ibis, glossy;ZBt2DNsD
+Ibis, puna;5hIH9e41
+Ibis, sacred;wfcq3ejb
+Iguana, common green;Xc2sj60C
+Iguana, land;27daBLVw
+Iguana, marine;AZ2vlxmD
+Impala;kpXAuYl1
+Indian giant squirrel;xPi6AMwW
+Indian jackal;qER4hYVl
+Indian leopard;JFQCP0WN
+Indian mynah;WlHVPz99
+Indian peacock;eEP2f8eG
+Indian porcupine;28icsnWf
+Indian red admiral;j8LaI6Fs
+Indian star tortoise;lPeEWm9g
+Indian tree pie;HWdTrFYW
+Insect, stick;Wtl25Y3g
+Jabiru stork;J168L6W4
+Jacana, african;0MtkkDl5
+Jackal, asiatic;qBtWFHxn
+Jackal, black-backed;1RMA8coW
+Jackal, golden;Hp2TXIeV
+Jackal, indian;Bo5zADQR
+Jackal, silver-backed;umJm2W2v
+Jackrabbit, white-tailed;9BvM0UQH
+Jaeger, long-tailed;btlupr7c
+Jaguar;2jA5Tpbz
+Jaguarundi;9LBSDmIL
+Japanese macaque;rXlFU9ih
+Javan gold-spotted mongoose;MjVNsmPV
+Javanese cormorant;Q6M6KppX
+Jungle cat;VUXYKGtU
+Jungle kangaroo;30Xz9NmN
+Kaffir cat;msNViCwz
+Kafue flats lechwe;BExlcFIb
+Kalahari scrub robin;fU9KHjuf
+Kangaroo, black-faced;mWVfjDJE
+Kangaroo, brush-tailed rat;T0kfxXN4
+Kangaroo, eastern grey;Ky0cWEPe
+Kangaroo, jungle;mMqrMeDv
+Kangaroo, red;WQezqvag
+Kangaroo, western grey;dsTBMuPQ
+Kelp gull;2unl2D56
+Killer whale;Nn7vdJys
+King cormorant;RFKneJaY
+King vulture;wl013lGF
+Kingfisher, malachite;4J59ZZOP
+Kingfisher, pied;IV04mrze
+Kingfisher, white-throated;axaleWEx
+Kinkajou;I4VAl0Ss
+Kirk's dik dik;tYJ8eEwZ
+Kiskadee, great;QZOX0eLy
+Kite, black;mpy8wQvZ
+Klipspringer;STfF9Mga
+Knob-nosed goose;T2FZaN9u
+Koala;9KYlF3UO
+Komodo dragon;yY4mYH8K
+Kongoni;XnDDyrod
+Kookaburra, laughing;FYP0hOSx
+Kori bustard;V419zIvp
+Kudu, greater;GyHl7TyI
+Land iguana;LpCKpoT6
+Langur, common;lbSueBwd
+Langur, gray;LWTn2JLI
+Langur, hanuman;Nsy0sSjw
+Lappet-faced vulture;WJ3vlfhm
+Lapwing (unidentified);PdnCsIBu
+Lapwing, southern;8WnKli3b
+Large cormorant;qJHqvpLh
+Large-eared bushbaby;bKagbIjZ
+Lark, horned;HMugLVck
+Laughing dove;u1ESElF8
+Laughing kookaburra;ifzF0B0B
+Lava gull;3uxaWhhK
+Leadbeateri's ground hornbill;p9bfIhpj
+Least chipmunk;KY6gkHZh
+Lechwe, kafue flats;g9vrtOaQ
+Legaan, Monitor (unidentified);vOKtG3PT
+Legaan, ground;ypMielrX
+Legaan, water;B4C1iNDA
+Lemming, arctic;OTaPMN4s
+Lemming, collared;q76BjoMI
+Lemur, brown;nLNRubbY
+Lemur, grey mouse;eeEC1Ota
+Lemur, lesser mouse;lQvIMe4I
+Lemur, ring-tailed;AWTjCQ1u
+Lemur, sportive;5LhjGSAy
+Leopard;RAGIPo9u
+Leopard, indian;xrnOTr7X
+Lesser double-collared sunbird;GwWPxqdP
+Lesser flamingo;sf5z3dzk
+Lesser masked weaver;JM8g77fS
+Lesser mouse lemur;NlPGAfgB
+Levaillant's barbet;K5zOFtn9
+Lilac-breasted roller;5PFmmKxl
+Lily trotter;7WeGs4ed
+Lion, african;fgrwyOw6
+Lion, asian;cWt2Qbfl
+Lion, australian sea;77WEWstq
+Lion, california sea;80CkZxFE
+Lion, galapagos sea;PAC36OTW
+Lion, mountain;WtYpq0C9
+Lion, south american sea;aPUpS0eT
+Lion, southern sea;fmx5iavt
+Lion, steller sea;u56eXo8e
+Lion, steller's sea;uPF0so3Q
+Little blue penguin;aqsQkdiN
+Little brown bat;iGBgFRN7
+Little brown dove;DiicNKI6
+Little cormorant;xAluKNsy
+Little grebe;ox4K6X41
+Little heron;vMkHMIJD
+Lizard (unidentified);auVeVDbd
+Lizard, blue-tongued;7VAdY2f8
+Lizard, collared;v5MF537B
+Lizard, desert spiny;41dBshi2
+Lizard, frilled;Z8ggBmdu
+Lizard, giant girdled;lBqWwaAJ
+Lizard, goanna;vOPphluJ
+Lizard, mexican beaded;0Klf41vB
+Llama;y1tNjWtR
+Long-billed cockatoo;0eaFuj3K
+Long-billed corella;4n3TK6Se
+Long-crested hawk eagle;3hZq2fDW
+Long-finned pilot whale;yQXTc7ur
+Long-necked turtle;zBTf3owT
+Long-nosed bandicoot;i6xY6yWQ
+Long-tailed jaeger;fWjAG9BL
+Long-tailed skua;W1LZA4rX
+Long-tailed spotted cat;d7u8Ptx4
+Lorikeet, scaly-breasted;BtAzGh4H
+Loris, slender;P8Jr3aQP
+Lory, rainbow;9NCfSD5V
+Lourie, grey;1SApcJYW
+Lynx, african;8Cg3slzo
+Macaque, bonnet;cNzwHzhH
+Macaque, japanese;aVcqDfel
+Macaque, pig-tailed;KRSRA9OO
+Macaque, rhesus;76usQ7hd
+Macaw, blue and gold;KoZXhJl4
+Macaw, blue and yellow;JEjA1MPK
+Macaw, green-winged;DN8fEkyG
+Macaw, red and blue;lUqnqC50
+Macaw, scarlet;iwpk1b2i
+Madagascar fruit bat;aWmh4PXU
+Madagascar hawk owl;LqGaTFMw
+Magellanic penguin;ofTJ4uLd
+Magistrate black colobus;DSRXbMBP
+Magnificent frigate bird;Gi8Qy438
+Magpie, australian;gBpFizqP
+Magpie, black-backed;RwETEuYQ
+Malabar squirrel;QXeoShye
+Malachite kingfisher;BtzO5PUb
+Malagasy ground boa;QijtZvo6
+Malay squirrel (unidentified);WsGY9DAq
+Mallard;ZcbBhuog
+Malleefowl;OrNC5lai
+Manatee;0Z7obXJm
+Mandras tree shrew;Qq6eldlx
+Mara;pgxcZilm
+Marabou stork;5EoIm2Nz
+Margay;G12aeiFC
+Marine iguana;NJ1U5v5x
+Marmot, hoary;ThFuNW6R
+Marmot, yellow-bellied;3jtNucsE
+Marshbird, brown and yellow;3RY13G3k
+Marten, american;NEJqxQmd
+Masked booby;CoABsoZa
+Meerkat;hmMuqBjJ
+Meerkat, red;ku7zRq9U
+Mexican beaded lizard;m1JDTde1
+Mexican boa;5p2DNABj
+Mexican wolf;JFpKtF9b
+Miner's cat;2obL5KYN
+Mississippi alligator;NMTqDVpU
+Moccasin, water;9PfKiukV
+Mocking cliffchat;zkT2Ez2D
+Mockingbird, galapagos;POoUEMB4
+Mongoose, banded;1fvBOxcQ
+Mongoose, eastern dwarf;tsWIyDqC
+Mongoose, javan gold-spotted;BxIEeBzP
+Mongoose, small indian;j5Vwljnx
+Mongoose, yellow;eC3jyDs0
+Monitor lizard (unidentified);sGj2iMtj
+Monitor, two-banded;hHY3T2cW
+Monitor, water;FBz7rlMd
+Monitor, white-throated;sFnsMfOJ
+Monkey, black spider;ZmBJ9ykX
+Monkey, bleeding heart;oRmlHeyR
+Monkey, red howler;CDx8no3H
+Monkey, rhesus;Q84LmKAL
+Monkey, vervet;I00OfuA8
+Monster, gila;4RD7vYob
+Moorhen, purple;CQAGS4Z9
+Moose;M8OSbDHG
+Mouflon;sstEorra
+Mountain duck;TdtKZhxR
+Mountain goat;J13QLXFv
+Mountain lion;KenTU0bj
+Mourning collared dove;PdHlESDB
+Mouse, four-striped grass;uiBFfEwR
+Mudskipper (unidentified);YLkY2rGj
+Mule deer;fya8m3XA
+Musk ox;TsPFYgD6
+Mynah, common;ATcZpJZX
+Mynah, indian;Ng6wQhUz
+Native cat;QfgtLuUh
+Nelson ground squirrel;Is9JKHKs
+Neotropic cormorant;JsZfvJuA
+Netted rock dragon;y7kRH4SR
+Nighthawk, common;oGc8ODAx
+Nile crocodile;L8T3f7K0
+Nilgai;PD6PZQZg
+Nine-banded armadillo;WLw6JEcK
+North American beaver;8sdsyQw4
+North American porcupine;FhE11vJa
+North American red fox;TwA1Yu69
+North American river otter;wMJAWAHX
+Northern elephant seal;fmo6PL5a
+Northern fur seal;Y4iK5Weu
+Northern phalarope;Hr9E87Qn
+Nubian bee-eater;Q3AZOoBK
+Numbat;gCirh9No
+Nutcracker, clark's;oRKd1o3W
+Nuthatch, red-breasted;UgpOlLLn
+Nyala;GAGvgeV6
+Ocelot;8BYVy0rI
+Old world fruit bat (unidentified);DXcLHtWA
+Olive baboon;hJb1dLV4
+Onager;2U1X69YC
+Openbill stork;5uadqn81
+Openbill, asian;Li95Yfij
+Opossum, american virginia;WQX52RCz
+Orca;ejwnjBqK
+Oribi;v7oJng63
+Oriental short-clawed otter;254dekRo
+Oriental white-backed vulture;jVK8P089
+Ornate rock dragon;2dTy5Y4i
+Oryx, beisa;KWe6hqA9
+Oryx, fringe-eared;LKtAaXY7
+Osprey;36LCN7e2
+Ostrich;bRKaZLXB
+Otter, african clawless;UAgOOFex
+Otter, brazilian;sLRwLzqu
+Otter, canadian river;0ZM1KkNg
+Otter, cape clawless;eeQJ4oU7
+Otter, giant;pNS9NnU6
+Otter, north american river;7hIu8IBM
+Otter, oriental short-clawed;SMLGvnMG
+Otter, small-clawed;tRJXPmh4
+Ovenbird;OV7NlCoF
+Owl, australian masked;Mt47Hy3v
+Owl, burrowing;Wb4hJfCS
+Owl, great horned;GaWolxof
+Owl, madagascar hawk;3yBH1xM5
+Owl, snowy;ymzQWTTA
+Owl, white-browed;jd8RsEom
+Ox, musk;iHpKjejp
+Oystercatcher, blackish;p4hBMLiI
+Paca;W2s9Knux
+Pacific gull;YkRUp4ad
+Paddy heron (unidentified);wXhXJOGo
+Pademelon, red-legged;UITO26jc
+Painted stork;WkAqxjXl
+Pale white-eye;Eiuzb1uC
+Pale-throated three-toed sloth;j8zcLXWq
+Pallas's fish eagle;NW0TVDrx
+Palm squirrel;IBRe5J4P
+Pampa gray fox;a6brCqkj
+Paradoxure;ohZCWlCt
+Parakeet, rose-ringed;eyhfMhT6
+Parrot, hawk-headed;1iHsqNQT
+Partridge, coqui;05chXTUh
+Peacock, blue;l21pFoBi
+Peacock, indian;TSMM6Qkk
+Peccary, collared;28qBFHMP
+Peccary, white-lipped;S5zqqt1r
+Pelican, australian;FWX2ctHe
+Pelican, brown;hpj0lTyP
+Pelican, eastern white;DqJKScYp
+Pelican, great white;FeleCt5F
+Penguin, fairy;7diC4GpM
+Penguin, galapagos;9OE3RS7D
+Penguin, little blue;aaxPkUfv
+Penguin, magellanic;YUl7rRuE
+Peregrine falcon;GDyR9l3p
+Phalarope, grey;Tv84vARQ
+Phalarope, northern;Rw5gWNow
+Phalarope, red;3ZZkO0Hw
+Phalarope, red-necked;XCqd2I9w
+Phascogale, brush-tailed;ACAXtkNt
+Phascogale, red-tailed;LlpEi2dt
+Pheasant, common;w9Ni8lom
+Pheasant, ring-necked;d2klv2QT
+Pie, indian tree;hLODoB4J
+Pie, rufous tree;gc9jPdCK
+Pied avocet;FV8X0ZiJ
+Pied butcher bird;CJtYmA2N
+Pied cormorant;8R30dZUd
+Pied crow;R2WoO5mQ
+Pied kingfisher;E2GfJiZY
+Pig-tailed macaque;B0WP8Wri
+Pigeon, feral rock;kOgFu4TK
+Pigeon, wood;PPbRHmdJ
+Pine siskin;IpNwzZ4s
+Pine snake (unidentified);RmRCluS7
+Pine squirrel;xCE9Ktye
+Pintail, bahama;ETB7FOr0
+Pintail, white-cheeked;RZW1JzWl
+Plains zebra;8abXufuk
+Platypus;BHvCIWUw
+Plover, blacksmith;oZ7dlYpk
+Plover, three-banded;GOmKD8cb
+Pocket gopher (unidentified);WRHvtESI
+Polar bear;1KAhiASa
+Polecat, african;LwBXJx9c
+Porcupine, african;ms95pmIf
+Porcupine, crested;8yAQOWgL
+Porcupine, indian;hnwIGvMn
+Porcupine, north american;GY0gVB9a
+Porcupine, prehensile-tailed;UkglopJH
+Porcupine, tree;l2C49A0r
+Possum, common brushtail;RVYvZ8IF
+Possum, golden brush-tailed;GuQu0J9h
+Possum, pygmy;4SHfR85K
+Possum, ring-tailed;1jJBNDLP
+Possum, western pygmy;xba51jA6
+Potoroo;ptNGOKkW
+Prairie falcon;jloS7oO9
+Praying mantis (unidentified);iJ0s4CL8
+Prehensile-tailed porcupine;dvqY0Lbg
+Pronghorn;cm2cEF1Q
+Puffin, horned;OJhFrV8q
+Puku;cNXr0atg
+Puma;MM3qf0nu
+Puma, south american;AuhFfcy3
+Puna ibis;lm8nKvxh
+Purple grenadier;hVKrsk3b
+Purple moorhen;dJBjH2RP
+Pygmy possum;c4KDVwOk
+Python (unidentified);EvaLkQCR
+Python, carpet;fThQchaW
+Quail, gambel's;V0gRdZqX
+Quoll, eastern;gTyQYaPt
+Quoll, spotted-tailed;Ur0Zw2Hd
+Rabbit, eastern cottontail;mDVHxPY5
+Raccoon dog;PhP9mUBe
+Raccoon, common;POFsuiUk
+Raccoon, crab-eating;7us3FSAZ
+Racer snake;740tF5nb
+Racer, american;Dbr0msTa
+Racer, blue;CEwU8zSD
+Radiated tortoise;H1AsVgvO
+Rainbow lory;bHeFCUIY
+Rat, arboral spiny;PtaaDtvf
+Rat, desert kangaroo;wJMSR2Hj
+Rat, white-faced tree;bP8E9avV
+Rattlesnake, dusky;X3PzyoV3
+Rattlesnake, eastern diamondback;V1BdplLt
+Rattlesnake, horned;Znq4ACjt
+Raven, cape;HILst43p
+Raven, white-necked;8lQpV5v1
+Red and blue macaw;FJqm7HUw
+Red brocket;QQ60aYDd
+Red deer;Ry8eGq7n
+Red hartebeest;yRrsILqx
+Red howler monkey;fY7dEDu7
+Red kangaroo;fEPm5lkE
+Red lava crab;3wTtRGuT
+Red meerkat;ucB1mJFc
+Red phalarope;oollNTG1
+Red sheep;F8TQjIn9
+Red squirrel;VLJyjDDg
+Red-billed buffalo weaver;iYRy7qa3
+Red-billed hornbill;lphVUO7Z
+Red-billed toucan;Gtx885tQ
+Red-billed tropic bird;OvS6wFo9
+Red-breasted cockatoo;kcmqrD8e
+Red-breasted nuthatch;y0gRUK1Q
+Red-capped cardinal;gPy4EeOQ
+Red-cheeked cordon bleu;1oRpfTjK
+Red-headed woodpecker;8fhVN4VQ
+Red-knobbed coot;w4lhmiN9
+Red-legged pademelon;w0teu8aj
+Red-necked phalarope;0TACxL9D
+Red-necked wallaby;SXNXAY2P
+Red-shouldered glossy starling;Tz38ZcLm
+Red-tailed cockatoo;h6ypngbe
+Red-tailed hawk;mlcDwYDk
+Red-tailed phascogale;aSZLC9HG
+Red-tailed wambenger;ETIKuTZ0
+Red-winged blackbird;c3gDzJof
+Red-winged hawk (unidentified);NJdCIW4L
+Reedbuck, bohor;vuw8Ej9h
+Reindeer;J5stp6MP
+Rhea, common;SEOIZUTo
+Rhea, gray;il1cU7jY
+Rhea, greater;5eoxbKrI
+Rhesus macaque;D5duBSLY
+Rhesus monkey;85fPn45f
+Rhinoceros, black;OCHHGCax
+Rhinoceros, square-lipped;9SjXi6YD
+Rhinoceros, white;YC2VgodO
+Richardson's ground squirrel;8WiJxZbg
+Ring dove;acvInWE4
+Ring-necked pheasant;CpyJhJpp
+Ring-tailed coatimundi;mPzdoaLR
+Ring-tailed gecko;tTu6uuXx
+Ring-tailed lemur;qFFgwjUF
+Ring-tailed possum;dhhuaWw7
+Ringtail;bfdSe3h7
+Ringtail cat;4dew7ddN
+Ringtail, common;UPl8go5v
+River wallaby;I8UrE2j5
+Roadrunner, greater;5uUAN4Am
+Roan antelope;mXGnZB19
+Robin, kalahari scrub;Xc6M4u45
+Robin, white-throated;bPSJkQH2
+Rock dove;KO0bVqyT
+Roe deer;ckX3TALm
+Roller, lilac-breasted;RAHfouXy
+Rose-ringed parakeet;E0Ff2W4R
+Roseat flamingo;RN4JafwC
+Roseate cockatoo;BrQ3nFA0
+Royal tern;tq5ncL5m
+Rufous tree pie;xC5evAYe
+Rufous-collared sparrow;uRaOawO8
+Russian dragonfly;3lobnhUo
+Sable antelope;uPzyMeXE
+Sacred ibis;GHNQhJ5W
+Saddle-billed stork;6EGXAYIs
+Sage grouse;9LqAKAdc
+Sage hen;BtgMXnyJ
+Sally lightfoot crab;CkACYSZy
+Salmon pink bird eater tarantula;EtUK0xYX
+Salmon, sockeye;fC2hZZBh
+Sambar;SR4gAaCV
+Sandgrouse, yellow-throated;FBThwemw
+Sandhill crane;TmceuJbo
+Sandpiper, spotted wood;UTTgP9bm
+Sarus crane;YcR4Z1a8
+Savanna baboon;RkHdrzV8
+Savanna fox;7nReohpi
+Savannah deer;rcWqW4It
+Savannah deer (unidentified);nrprto5Z
+Scaly-breasted lorikeet;ZltNOPtQ
+Scarlet macaw;FboHqmzg
+Scottish highland cow;HAoVUs9e
+Screamer, crested;IGGGu2t2
+Screamer, southern;qozbJ2AZ
+Sea birds (unidentified);L7azq7Yk
+Seal, common;I82nZTU0
+Seal, harbor;Hy9iRdVw
+Seal, northern elephant;tIrjuF4z
+Seal, northern fur;FErEC1Zp
+Seal, southern elephant;U4C33o8b
+Secretary bird;ou8Cm3Rs
+Serval;fqtNR4nt
+Seven-banded armadillo;Va6V5fMT
+Shark, blue;ZTL5eUu5
+Sheathbill, snowy;jVL6hNX2
+Sheep, american bighorn;3ZwxDoN7
+Sheep, red;zCe9CSNN
+Sheep, stone;0bEwROjP
+Shelduck, common;CK7W9iBF
+Shelduck, european;FABe0Lak
+Short-beaked echidna;87GOMJvK
+Short-nosed bandicoot;xTXB0zof
+Shrew, mandras tree;MniZxWPj
+Shrike, common boubou;CQDsFB9Y
+Shrike, crimson-breasted;TzBZ32pC
+Shrike, southern white-crowned;50kpkg0M
+Sidewinder;F8l8CP8k
+Sifaka, verreaux's;T5yq41YO
+Silver gull;rISjINUd
+Silver-backed fox;aGb2u5cr
+Silver-backed jackal;PIKzUZIx
+Siskin, pine;Nl5mkgm2
+Siskin, yellow-rumped;qBovgfpv
+Skimmer, four-spotted;Efk6WyC5
+Skink, african;rrZLBLqV
+Skink, blue-tongued;cuQyEX5r
+Skua, great;qnv2dDCr
+Skua, long-tailed;6MaQPTi6
+Skunk, striped;Yr1S1ydf
+Skunk, western spotted;Za4AZVJ7
+Slender loris;x2XeU88u
+Slender-billed cockatoo;7EcCm4xk
+Sloth bear;QHwYDdHn
+Sloth, hoffman's;9uRXvby9
+Sloth, pale-throated three-toed;DaCeFhyZ
+Sloth, two-toed;UWFOzMBb
+Sloth, two-toed tree;FZkzNnYl
+Small Indian mongoose;25N1n2ek
+Small-clawed otter;NGSGgke7
+Small-spotted genet;pv9q01eJ
+Small-toothed palm civet;7vateIxH
+Smith's bush squirrel;nJ2aUwXf
+Snake (unidentified);SAGpaN8J
+Snake, buttermilk;9dK9wBJF
+Snake, carpet;cHUpN6rt
+Snake, eastern indigo;12P6v5Me
+Snake, green vine;3W7Rg9kU
+Snake, racer;YCBwSg4s
+Snake, tiger;QmrYTnwt
+Snake, western patch-nosed;jbGlTahb
+Snake-necked turtle;PaYaDVQK
+Snow goose;01GT76sM
+Snowy egret;nxDkQte0
+Snowy owl;OIdo2oJB
+Snowy sheathbill;k5idxOM9
+Sociable weaver;39uNpLSO
+Sockeye salmon;YDcoHp2c
+South African hedgehog;UlA9dWBl
+South American meadowlark (unidentified);yBza910f
+South American puma;ZgZyJIso
+South American sea lion;X5KbQDcm
+Southern black-backed gull;5j77GfVx
+Southern boubou;MkVv7YWP
+Southern brown bandicoot;TpQKOTJo
+Southern elephant seal;F0oAauG8
+Southern ground hornbill;sZ5LwCxR
+Southern hairy-nosed wombat;pNWuy8Ig
+Southern lapwing;wAqtKOkw
+Southern right whale;tisqojg1
+Southern screamer;0s9WjxTc
+Southern sea lion;kegbur4V
+Southern tamandua;nyzHcZhN
+Southern white-crowned shrike;UCQgZdv2
+Sparrow, house;8Uv9MX1S
+Sparrow, rufous-collared;hCzeJK5K
+Spectacled caiman;PKQL2STn
+Spider, wolf;48QNwyxv
+Spoonbill, european;3B0MUdDe
+Spoonbill, white;JZPD0O4v
+Sportive lemur;MMOZHSgm
+Spotted deer;1c0ENTl0
+Spotted hyena;I7ErK6Nn
+Spotted wood sandpiper;89Qh5Z2I
+Spotted-tailed quoll;ZpucwmmZ
+Springbok;ZkgmZFXB
+Springbuck;aZGbG7KU
+Springhare;0D75gwLT
+Spur-winged goose;xbXRaf79
+Spurfowl, yellow-necked;UTii0ePv
+Square-lipped rhinoceros;m99XgaKC
+Squirrel glider;fP9V2fwp
+Squirrel, african bush;CRSvXlt8
+Squirrel, antelope ground;RmJdUKN4
+Squirrel, arctic ground;IldCkNtK
+Squirrel, eastern fox;zqDQZK8f
+Squirrel, eurasian red;77S3ESNC
+Squirrel, european red;dJpzOodS
+Squirrel, golden-mantled ground;lBKUeRbE
+Squirrel, grey-footed;24U1GJv4
+Squirrel, indian giant;QVI8hsic
+Squirrel, malabar;3D2M1JjH
+Squirrel, nelson ground;YwFpAZDW
+Squirrel, palm;pM0tIoDI
+Squirrel, pine;nIKDT9xK
+Squirrel, red;vidUtGzF
+Squirrel, richardson's ground;H4886lfT
+Squirrel, smith's bush;JYwn2mjC
+Squirrel, thirteen-lined;pkMPvtCn
+Squirrel, uinta ground;d2ZBHWKW
+Stanley bustard;iihwwJqm
+Stanley crane;XPgb6Z0T
+Starfish, crown of thorns;poy0e2mJ
+Starling, cape;CFJf6ahY
+Starling, greater blue-eared;A5FqunOF
+Starling, red-shouldered glossy;LTtLTM60
+Starling, superb;6gDr9Cuu
+Steenbok;ND3et1rw
+Steenbuck;8fBALcl4
+Steller sea lion;H2EEQDiW
+Steller's sea lion;00Momasa
+Stick insect;Z1DhIFXa
+Stilt, black-winged;nnRRV6HK
+Stone sheep;FwkCk4wc
+Stork, black-necked;ezaYXXGC
+Stork, european;aWUftWXs
+Stork, greater adjutant;EX2SeCRY
+Stork, jabiru;C4H6LGp1
+Stork, marabou;FiIKUeF2
+Stork, openbill;j0W8ZWOJ
+Stork, painted;bFViaUqq
+Stork, saddle-billed;0n7e70Z8
+Stork, white;IsJcpAOE
+Stork, white-necked;7LtHBobz
+Stork, woolly-necked;8cI66uH7
+Stork, yellow-billed;EzydyLdQ
+Striated heron;Ep0kO2GN
+Striped dolphin;oaZ3gsbX
+Striped hyena;UUr39uoT
+Striped skunk;WljJRscp
+Sugar glider;TKjktPCE
+Sulfur-crested cockatoo;k2chG22J
+Sun gazer;nUSNftgK
+Sunbird, lesser double-collared;oi74ZtBV
+Sungazer, yellow-brown;WemVfjqT
+Superb starling;DjbUQr8g
+Suricate;5Qrk0xfk
+Swainson's francolin;XcgVRPGc
+Swallow (unidentified);mkqftgi7
+Swallow-tail gull;ozCZwxI7
+Swamp deer;L2afvN0O
+Swan, black;iMU70C6k
+Swan, trumpeter;p0PPNFNe
+Tailless tenrec;iWmLzl1B
+Tamandua, southern;ww3d8y52
+Tammar wallaby;kMvXfv3x
+Tapir, brazilian;pHynWcmL
+Tarantula;1eJRWo67
+Tarantula, salmon pink bird eater;orbwGRYq
+Tasmanian devil;b0EyQkDv
+Tawny eagle;ldJC5RGg
+Tawny frogmouth;lmIdlMyt
+Tayra;1mYYdbX0
+Teal, hottentot;egGOgGCD
+Tenrec, tailless;ENiKxjrK
+Tern, arctic;BlrwTJhH
+Tern, royal;Sq0dCn8T
+Tern, white-winged;6KXd5qtx
+Tern, white-winged black;4jRs537g
+Thirteen-lined squirrel;n9R8yEJP
+Thomson's gazelle;ARBfSZG6
+Thrasher, curve-billed;5nUEcDcA
+Three-banded plover;WTju1fkF
+Tiger;SoHJaX7d
+Tiger cat;JltpWPwy
+Tiger snake;yCF0whN1
+Timber wolf;6Y3Y2mMA
+Tinamou, elegant crested;1fhWBXuT
+Toddy cat;mDTdqRW3
+Tokay gecko;xwOgX4Et
+Topi;NZJcCxDJ
+Tortoise, asian foreset;LVGsStD8
+Tortoise, burmese black mountain;y6u9LtPn
+Tortoise, burmese brown mountain;sYWeCiT8
+Tortoise, desert;wKzDcUWV
+Tortoise, galapagos;zOEuo3Sw
+Tortoise, indian star;PysNdh5a
+Tortoise, radiated;7Ia7aMKT
+Toucan, red-billed;HT6A7dSS
+Toucan, white-throated;VgAszuPb
+Tree porcupine;Lk1NYXlo
+Tropical buckeye butterfly;ZRQgnZKC
+Trotter, lily;Vya8v247
+Trumpeter swan;Ul3wlzVE
+Trumpeter, dark-winged;ybmODWHO
+Trumpeter, green-winged;XL4OQF91
+Tsessebe;lgCJa89v
+Turaco, violet-crested;9Pyl8bWe
+Turkey vulture;ZolfIr3I
+Turkey, australian brush;BOE4s9pR
+Turkey, common;yP3eLVPy
+Turkey, wild;wjB0N25K
+Turtle (unidentified);2L6E20OP
+Turtle, eastern box;jl51v3Yw
+Turtle, long-necked;N5MTZiCK
+Turtle, snake-necked;fvjLdMcb
+Two-banded monitor;26PKvJw8
+Two-toed sloth;8hT1poKd
+Two-toed tree sloth;ePu3EZ7t
+Tyrant flycatcher;qsumDmHF
+Uinta ground squirrel;A5RbJw8o
+Urial;0xeiULtz
+Verreaux's sifaka;2iaH2ygK
+Vervet monkey;4gzUtHKN
+Vicuna;GQ4KKM1y
+Vine snake (unidentified);uwTV04no
+Violet-crested turaco;LM6rldv6
+Violet-eared waxbill;T3T0hLzI
+Viper, egyptian;Lx2xwzsv
+Vulture, bengal;1VSUZEzB
+Vulture, black;fQ9FGO9v
+Vulture, egyptian;wGIEJ3fp
+Vulture, griffon;xwiB9bHf
+Vulture, king;bMtPAelH
+Vulture, lappet-faced;SI0dsb5G
+Vulture, oriental white-backed;ZFBzyYEH
+Vulture, turkey;dSnHj1LG
+Vulture, white-headed;82g7sW6q
+Vulture, white-rumped;Ix3s9nmL
+Wagtail, african pied;01ZLHEMy
+Wallaby, agile;YgT5Rvbf
+Wallaby, bennett's;IaGRT0xi
+Wallaby, dama;2KOvBLCU
+Wallaby, euro;CJnL8leE
+Wallaby, red-necked;3jEC1GXB
+Wallaby, river;Y2wruI7d
+Wallaby, tammar;KW4GLrt0
+Wallaby, whip-tailed;SgqSuhZq
+Wallaroo, common;teXHiTCh
+Wambenger, red-tailed;8ozbfHM1
+Wapiti, elk,;fONhokws
+Warthog;MoU7R51j
+Water legaan;VhH6mmYO
+Water moccasin;M5Tyb8N2
+Water monitor;f1tjlQT8
+Waterbuck, common;4w6ZH94W
+Waterbuck, defassa;X6qRw22A
+Wattled crane;TmErc3OU
+Waved albatross;2DL6jGAk
+Waxbill, black-cheeked;PvIQoZzp
+Waxbill, blue;i8jWMUU4
+Waxbill, violet-eared;gdENdZfP
+Weaver, chestnut;fulE35yf
+Weaver, lesser masked;oytm9brC
+Weaver, red-billed buffalo;CUD1fY3U
+Weaver, sociable;1GMKHOxO
+Weaver, white-browed sparrow;cePbRMI9
+Weeper capuchin;CT3KJvyc
+Western bearded dragon;6det2CP0
+Western grey kangaroo;74RMwud6
+Western lowland gorilla;Gt7XNZ1T
+Western palm tanager (unidentified);7H5OY5Mt
+Western patch-nosed snake;K2INl9pS
+Western pygmy possum;Xgho7oAs
+Western spotted skunk;vfDsSsDZ
+Whale, baleen;bVb1adBV
+Whale, killer;IW3wlBCr
+Whale, long-finned pilot;O3XMwkpZ
+Whale, southern right;nQhiRbBS
+Whip-tailed wallaby;8yudaSkh
+White rhinoceros;G52vz4iW
+White spoonbill;ZL4WoZxh
+White stork;xsSBUn9Q
+White-bellied sea eagle;QrKYLpac
+White-browed owl;LhvohSRd
+White-browed sparrow weaver;RTrVeXml
+White-cheeked pintail;7WjNGuQJ
+White-eye, cape;seNo0Bnk
+White-eye, pale;zHT2fXHX
+White-faced tree rat;HxzJrjxH
+White-faced whistling duck;AZwFU04S
+White-fronted bee-eater;XGG6MCUE
+White-fronted capuchin;lT4ZBmuE
+White-headed vulture;gN59fYmK
+White-lipped peccary;epRqKm03
+White-mantled colobus;ceWohQxl
+White-necked raven;cqxocTaS
+White-necked stork;AoiTriVp
+White-nosed coatimundi;6jRxjyIy
+White-rumped vulture;BTQXbaS8
+White-tailed deer;tfnb5h1s
+White-tailed jackrabbit;SSOlBWWi
+White-throated kingfisher;mwmYYhkY
+White-throated monitor;KJfrFyiU
+White-throated robin;wJEsOuNY
+White-throated toucan;eaBGcMlE
+White-winged black tern;7pHE4ukn
+White-winged dove;dBpUPKiv
+White-winged tern;xsJ5uPir
+Wild boar;BuCV70R4
+Wild turkey;B2eTBgse
+Wild water buffalo;Yvi2IvJs
+Wildebeest, blue;iYNlztkN
+Wolf spider;rvOXElsh
+Wolf, common;79H30snc
+Wolf, mexican;ESMaqa2T
+Wolf, timber;Py1Scr88
+Wombat, common;lcjSOPNC
+Wombat, southern hairy-nosed;nOekNXT2
+Wood pigeon;D2xM4XBp
+Woodchuck;Q0NPaamo
+Woodcock, american;LqQVX7rO
+Woodpecker, downy;28LMmSmT
+Woodpecker, red-headed;y7ZvploS
+Woodrat (unidentified);951pEMpX
+Woolly-necked stork;bbIrJD9h
+Worm snake (unidentified);lBMTfblr
+Woylie;Ha0mFStz
+Yak;wdcXRMgm
+Yellow baboon;9zhuysik
+Yellow mongoose;gNV7EdY4
+Yellow-bellied marmot;KU9iPiWW
+Yellow-billed hornbill;ch1UJPcx
+Yellow-billed stork;na70rYe1
+Yellow-brown sungazer;fXLnSZjf
+Yellow-crowned night heron;ACLD1x7S
+Yellow-headed caracara;BGpHHYx7
+Yellow-necked spurfowl;SqaD42c0
+Yellow-rumped siskin;1TqAlweX
+Yellow-throated sandgrouse;UJCAg5Yn
+Zebra, common;Hlgi3lGD
+Zebra, plains;8R4ex4q5
+Zorilla;q92AzZ7Z
+Zorro, azara's;r96I5h5f
+Zorro, common;iRJH0ScZ

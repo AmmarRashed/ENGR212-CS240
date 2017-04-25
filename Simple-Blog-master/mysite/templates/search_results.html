@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+</head>
+<body>
+<p>You searched for: <stron>{{ query }}</stron></p>
+
+{% if animals %}
+    <p>Found {{  animals|length }} {{ query }}{{ animals|pluralize }}</p>
+    <ul>
+        {% for animal in animals %}
+            <li>{{ animal }}</li>
+        {% endfor %}
+    </ul>
+{% else %}
+<p>No animals matched your search criteria.</p>
+{% endif %}
+
+</body>
+</html>

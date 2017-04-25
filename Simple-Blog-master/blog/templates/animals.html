@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Animals</title>
+</head>
+<body>
+<ol start="0">
+    <a  href="http://127.0.0.1:8000/blog/entries"><img src='https://s-media-cache-ak0.pinimg.com/564x/c2/04/95/c2049589335f949c12dd8d873a001989.jpg'></a></br>
+    <p1 style="color:#FF0000";><b>In this blog you can see a list of {{ length }} animals with their animology id</b></p1>
+    <h1>Animal Name &nbsp;&nbsp;>>>&nbsp;&nbsp hashID</h1>
+    {% for name,id in animals %}
+        <a  href="https://www.google.com.tr/search?q={{ name }}">
+        <li> {{ name }}&nbsp;&nbsp;>>>&nbsp;&nbsp;{{ id }} </li></a></br>
+    {% endfor %}
+</ol>
+</body>
+</html>

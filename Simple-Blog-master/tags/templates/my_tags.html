@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+{% if request.user.username %}
+    <h1>Welcome {{ request.user.username }}</h1>
+    <a href="/users/logout">Logout</a>
+{% endif %}
+
+<ol>
+    {% for tag in tags %}
+        <li>
+            <h1>{{ tag.name }}</h1>
+        </li>
+    {% endfor %}
+</ol>
+
+
+<form method="POST">
+    {% csrf_token %}
+
+    {{ form }}
+
+    <button type="submit">Submit</button>
+</form>
+
+
+
+</body>
+</html>

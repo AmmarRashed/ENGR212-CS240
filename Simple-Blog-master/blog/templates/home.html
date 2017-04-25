@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+<h1>{% if request.user.username %}
+    <h1>Hello {{ request.user.username }}</h1>
+    <a href="/users/logout">Logout</a>
+{% endif %}</h1>
+<h1>Welcome to Animology Blog</h1>
+
+<a  href="http://127.0.0.1:8000/blog/"><img src='https://s-media-cache-ak0.pinimg.com/564x/c2/04/95/c2049589335f949c12dd8d873a001989.jpg'></a>
+<ol>
+    {% for animal in animals %}
+        <li>
+            <a  href="https://www.google.com.tr/search?q={{ animal.name }}"><h1>{{ animal.name }}</h1></a></br>
+            <p>{{ animal.description }}</p>
+            {% for tag in animal.tags.all %}
+                +{{ tag.name }}
+            {% endfor  %}
+            <p>&nbsp;&nbsp;&nbsp; written by: {{ animal.owner.username }}</p>
+        </li>
+    {% endfor %}
+</ol>
+{% if form %}
+<form method="POST">
+    {% csrf_token %}
+    {{ form }}
+    <button type="submit">Submit</button>
+</form>
+{% endif %}
+
+{#<form method="POST">#}
+{#    {% csrf_token %}#}
+{#    <input name="animal_name">#}
+{#    <input name="description">#}
+{#    <select name="tag_names" multiple>#}
+{#        {% for tag in tags %}#}
+{#            <option value="{{ tag.id }}" >{{ tag.name }}</option>#}
+{#        {% endfor %}#}
+{#    </select>#}
+{#    <button type="submit">Submit</button>#}
+{#</form>#}
+
+</body>
+</html>
