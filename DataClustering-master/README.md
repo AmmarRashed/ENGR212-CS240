@@ -3,6 +3,10 @@ Grouping courses in clusters according to their description and plotting the: hi
 
 <img src="https://github.com/AmmarRashed/Mission-Sophomore/blob/master/DataClustering-master/cc1.PNG?raw=true">
 
+<img src="https://github.com/AmmarRashed/Mission-Sophomore/blob/master/DataClustering-master/cc2.PNG?raw=true">
+
+<img src="https://github.com/AmmarRashed/Mission-Sophomore/blob/master/DataClustering-master/cc3.PNG?raw=true">
+
 # Author
 Ammar Rashed
 #Date:
