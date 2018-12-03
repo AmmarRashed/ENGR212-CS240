@@ -37,7 +37,7 @@ Mini Python projects for basic exploratory data analysis, collective intelligenc
   <img src="https://raw.githubusercontent.com/AmmarRashed/Mission-Sophomore/master/DataClustering-master/cc1.PNG" width=400>
   </a>
   
-  - <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/GradePredictor-master">
+   <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/GradePredictor-master">
   <img src="https://github.com/AmmarRashed/Mission-Sophomore/raw/master/GradePredictor-master/gp.PNG?raw=true" width=400>
   </a>
   
