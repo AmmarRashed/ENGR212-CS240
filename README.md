@@ -26,7 +26,7 @@ Mini Python projects for basic exploratory data analysis, collective intelligenc
 <p float="left">
 
  <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/CS-Sehir-Researches-Displayer--master">
-<img src="https://raw.githubusercontent.com/AmmarRashed/Mission-Sophomore/master/CS-Sehir-Researches-Displayer--master/PV.PNG">
+<img src="https://raw.githubusercontent.com/AmmarRashed/Mission-Sophomore/master/CS-Sehir-Researches-Displayer--master/PV.PNG" width=200>
 </a>
 
    <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/CafeCrown-RecommendationEngine-master">
