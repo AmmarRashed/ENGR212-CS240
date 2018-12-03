@@ -23,18 +23,17 @@ Mini Python projects for basic exploratory data analysis, collective intelligenc
   
 
 
------------
+<p float="left">
 
-
-- <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/CS-Sehir-Researches-Displayer--master">
+ <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/CS-Sehir-Researches-Displayer--master">
 <img src="https://raw.githubusercontent.com/AmmarRashed/Mission-Sophomore/master/CS-Sehir-Researches-Displayer--master/PV.PNG">
 </a>
 
- -  <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/CafeCrown-RecommendationEngine-master">
+   <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/CafeCrown-RecommendationEngine-master">
   <img src="https://raw.githubusercontent.com/AmmarRashed/Mission-Sophomore/master/CafeCrown-RecommendationEngine-master/re.PNG">
 </a>
 
--  <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/DataClustering-master">
+  <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/DataClustering-master">
   <img src="https://raw.githubusercontent.com/AmmarRashed/Mission-Sophomore/master/DataClustering-master/cc1.PNG">
   </a>
   
@@ -42,11 +41,12 @@ Mini Python projects for basic exploratory data analysis, collective intelligenc
   <img src="https://github.com/AmmarRashed/Mission-Sophomore/raw/master/GradePredictor-master/gp.PNG?raw=true">
   </a>
   
-  - <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/Multivariable-data-analysis-and-Hypothesis-Testing-Using-Linear-and-Multiple-Regression-master">
+   <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/Multivariable-data-analysis-and-Hypothesis-Testing-Using-Linear-and-Multiple-Regression-master">
   <img src="https://github.com/AmmarRashed/Mission-Sophomore/raw/master/Multivariable-data-analysis-and-Hypothesis-Testing-Using-Linear-and-Multiple-Regression-master/pred.PNG?raw=true">
   </a>
   
-  - <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/Publications-SearcheEngine-master">
+   <a href="https://github.com/AmmarRashed/Mission-Sophomore/tree/master/Publications-SearcheEngine-master">
   <img src="https://github.com/AmmarRashed/Mission-Sophomore/raw/master/Publications-SearcheEngine-master/SE.png?raw=true">
   </a>
   
+</p>
